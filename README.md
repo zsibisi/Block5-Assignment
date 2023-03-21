@@ -1,3 +1,4 @@
+![Wild Animals Mini-Zoo](https://user-images.githubusercontent.com/107902020/226705879-0fa3f70d-89d6-4fb1-a0ee-0faaf13061b4.png)
 
    The Zoo Problem - Project, On this project we are creating a web-page for the Wild Animal Mini-Zoo. They're recently hired many new zookeeper interns who will work at the zoo for the next six months. They have contracted my team to build a page that will make it easier for the new interns to identify each animal and understand their needs and behaviors. The page was created using html and using the following requirements.
    
